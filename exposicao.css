@@ -1,0 +1,27 @@
+body{
+    background-color: skyBlue;
+    text-align: center;
+
+}
+.livros1{
+
+  font-size:15px;
+  margin-left: 60px;
+  margin-right: 1000px;
+  font-style: italic;
+  color: white;
+}
+.livros1 a{
+
+  font-size:15px;
+  margin-left: 60px;
+  margin-right: 1000px;
+}
+.livros2{
+
+  font-style: italic;
+  color: white;
+  font-size:15px;
+  margin-left: 60px;
+  margin-right: 1000px;
+}
